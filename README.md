@@ -23,7 +23,7 @@ Este projeto é uma aplicação web que utiliza a [Pokémon API](https://pokeapi
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/joao-pedro-plinta/pokemon-api.git
+   git clone https://github.com/joaopedroplinta/pokemon-api.git
 2. Navegue até o diretório do projeto:
     ```bash
     cd pokemon-api
