@@ -11,7 +11,7 @@ Este projeto é uma aplicação web que utiliza a [Pokémon API](https://pokeapi
 
 ## Demonstração
 
-![Demo](https://raw.githubusercontent.com/joao-pedro-plinta/pokemon-api/main/src/assets/demo-image.png) <!-- Substitua pelo caminho correto da sua imagem -->
+<img src="src/assets/image.png" alt="Demo"> 
 
 ## Funcionalidades
 
